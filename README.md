@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me just email me on ritabratodutta1234@gmail.com( please wait a day or two before retrying as your mail may get lost under spam )
 - 😄 Pronouns: Rasgulla
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: You just wasted a minute of your life reading this. Thank you
 
 <!---
 RitabrataDutta01/RitabrataDutta01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
