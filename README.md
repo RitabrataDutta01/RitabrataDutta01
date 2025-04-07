@@ -2,7 +2,7 @@
 - 👀 I’m interested in evertying( every new thing interest me )
 - 🌱 I’m currently learning C and small bit python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me just email me on ritabratodutta1234@gmail.com( please wait a day or two before retrying as your mail may get lost under spam )
+- 📫 Just email me on ritabratodutta1234@gmail.com( please wait a day or two before retrying as your mail may get lost under spam )
 - 😄 Pronouns: Rasgulla
 - ⚡ Fun fact: You just wasted a minute of your life reading this. Thank you
 
