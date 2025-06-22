@@ -1,12 +1,48 @@
-- 👋 Hi, I’m @RitabrataDutta01
-- 👀 I’m interested in evertying( every new thing interest me )
-- 🌱 I’m currently learning C and small bit python
-- 💞️ I’m looking to collaborate on ...
-- 📫 Just email me on ritabratodutta1234@gmail.com( please wait a day or two before retrying as your mail may get lost under spam )
-- 😄 Pronouns: Rasgulla
-- ⚡ Fun fact: You just wasted a minute of your life reading this. Thank you
+# 👋 Hey, I'm Ritabrata Dutta
 
-<!---
-RitabrataDutta01/RitabrataDutta01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a 2nd-year B.Tech CSE student at Adamas University, India.  
+💡 I'm curious about everything, but especially drawn to **machine learning**, **automation**, and **building useful tools**.
+
+---
+
+## 🚀 What I’m Working On
+
+- 📊 Learning ML with the book *"Introduction to Statistical Learning with Python"*
+- 🔍 Exploring projects in **data analysis**, **Tkinter**, and **Flask**
+- 🤖 Building apps like: Word-to-PDF, PPT-to-PDF, PDF Merger, Expense Tracker, Weather App, and more
+
+---
+
+## 🧠 Currently Learning
+
+- 📘 Machine Learning fundamentals (Linear regression, classification, etc.)
+- 🐍 Intermediate Python programming
+- 💻 C language basics
+- 🔧 Git and GitHub for version control
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- ML beginner-friendly projects
+- Fun Python automation tools
+- Anything educational and experimental 🚧
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [ritabratadutta1234@gmail.com](mailto:ritabratadutta1234@gmail.com)  
+  *(Give me a day or two to reply — your mail may land in spam)*
+
+---
+
+## ⚡ Fun Facts
+
+- 🧁 Pronouns: *Rasgulla*
+- 😄 I love silly code comments and useless trivia
+- 🧨 Fun Fact: You just wasted a minute reading this, thank you
+
+---
+
+> _"Keep learning. Keep bui_
