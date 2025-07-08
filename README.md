@@ -45,4 +45,4 @@
 
 ---
 
-> _"Keep learning. Keep bui_
+> _"Keep learning. Keep building_
