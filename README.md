@@ -1,48 +1,53 @@
-# 👋 Hey, I'm Ritabrata Dutta
+# Ritabrata Dutta
 
-🎓 I'm a 2nd-year B.Tech CSE student at Adamas University, India.  
-💡 I'm curious about everything, but especially drawn to **machine learning**, **automation**, and **building useful tools**.
+2nd-year B.Tech student in Computer Science & Engineering at Adamas University, West Bengal.
+I build things from scratch — not to skip the learning curve, but because understanding the internals *is* the point.
 
----
-
-## 🚀 What I’m Working On
-
-- 📊 Learning ML with the book *"Introduction to Statistical Learning with Python"*
-- 🔍 Exploring projects in **data analysis**, **Tkinter**, and **Flask**
-- 🤖 Building apps like: Word-to-PDF, PPT-to-PDF, PDF Merger, Expense Tracker, Weather App, and more
+Headed toward a Master's and a PhD. The goal is depth.
 
 ---
 
-## 🧠 Currently Learning
+## Currently Building
 
-- 📘 Machine Learning fundamentals (Linear regression, classification, etc.)
-- 🐍 Intermediate Python programming
-- 💻 C language basics
-- 🔧 Git and GitHub for version control
+**[Crucible](https://github.com/RitabrataDutta01/Crucible)** &nbsp;·&nbsp; Python, Flask, BeautifulSoup4  
+A modular Dynamic Application Security Testing (DAST) framework. Crawls target web applications via BFS, extracts attack surfaces, and runs multi-vector SQL injection and reflected XSS detection across discovered forms. Structured JSON reporting and a Flask dashboard.
 
----
-
-## 🤝 Looking to Collaborate On
-
-- ML beginner-friendly projects
-- Fun Python automation tools
-- Anything educational and experimental 🚧
+**ML from Scratch** &nbsp;·&nbsp; Python, NumPy  
+Implementing models without sklearn — working through the mathematics before writing a single line of code. So far: Multiple Linear Regression, and a Naive Bayes classifier for fraud detection.
 
 ---
 
-## 📫 Contact Me
+## Technical Stack
 
-- 📧 Email: [ritabratadutta1234@gmail.com](mailto:ritabratadutta1234@gmail.com)  
-  *(Give me a day or two to reply — your mail may land in spam)*
-
----
-
-## ⚡ Fun Facts
-
-- 🧁 Pronouns: *Rasgulla*
-- 😄 I love silly code comments and useless trivia
-- 🧨 Fun Fact: You just wasted a minute reading this, thank you
+| | |
+|---|---|
+| **Languages** | Python, C, C++, Java |
+| **ML / Data** | NumPy, scikit-learn |
+| **Web** | Flask, HTML5, CSS3, JavaScript |
+| **Scraping / Parsing** | BeautifulSoup4, lxml, requests |
+| **Environment** | Arch Linux (Hyprland), Fedora WSL, Zsh |
+| **Tools** | Git, uv, Tkinter, Flutter |
 
 ---
 
-> _"Keep learning. Keep building_
+## Interests
+
+- Machine learning — the mathematics underneath, not just the API calls
+- Application security and DAST tooling
+- Data structures and algorithms at a theoretical level
+- Building software that solves a concrete problem
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RitabrataDutta01&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitabrataDutta01&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
+
+---
+
+## Contact
+
+[ritabratadutta1234@gmail.com](mailto:ritabratadutta1234@gmail.com) &nbsp;·&nbsp; West Bengal, India
