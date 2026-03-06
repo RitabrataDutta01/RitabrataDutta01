@@ -50,4 +50,4 @@ Implementing models without sklearn — working through the mathematics before w
 
 ## Contact
 
-[ritabratadutta1234@gmail.com](mailto:ritabratadutta1234@gmail.com) &nbsp;·&nbsp; West Bengal, India
+[ritabratadutta1234@zohomail.in](mailto:ritabratadutta1234@zohomail.in) &nbsp;·&nbsp; West Bengal, India
